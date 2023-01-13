@@ -6,6 +6,7 @@
       Web Dev and C++ based Projects.
 - 📫 How to reach me -
      LinkedIn : https://linkedin.com/in/pulkit--srivastava
+- ⭐ First Pull request merged on Jan 14, 2023
 
 <!---
 PULKlT/PULKlT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
